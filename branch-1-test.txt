@@ -1,1 +1,4 @@
 Zmiany w pliku :p
+
+branch-conflict-2 coś majstruje przy pliku!!!
+
